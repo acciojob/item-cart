@@ -1,10 +1,9 @@
-# Favorite Holiday 
+# Item Cart
 
-### Create a webpage that describes your favorite holiday destination. The webpage should include the following elements:
+### Implement an item cart in HTML with the following static data:
 
-- A heading (h1) with the name of the holiday destination
-- A paragraph that provides a brief overview of the destination
-- A line break between the heading and the paragraph
-- An ordered list that lists the top 5 attractions in the destination
-- An unordered list that lists the must-try foods in the destination
-- Text within the ordered and unordered lists should be bold (strong or b) and/or italicized (em or i) to emphasize important information.
+![image](https://user-images.githubusercontent.com/78348500/222065622-3032fef6-9618-4392-ace7-1c7928bd2446.png)
+
+
+Your HTML code should use a table with proper semantic markup and with
+Item Cart as its caption.
